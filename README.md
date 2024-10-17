@@ -6,6 +6,7 @@ Hello there! My name is Brandon and I'm an aspiring game developer and programme
 
 ### Game Projects
 [Midnight Brew](https://bcthunder.itch.io/midnight-brew) My submission for Pirate Software's Game Jam in July 2024! This was my first game jam and I developed the game solo.
+[A Slice of Lunch](https://github.com/Waffle-Fish/A-Slice-of-Lunch.git) Working title for Cal State Fullerton's Video Game Developers Club! I'm learning sound design for this project.
 
 ### Other Projects
 [DumpsOrFire](https://github.com/BCThunder/DumpsOrFire.git) A music rating website with totally *objective* ratings. Made with my classmates Josh H. and Jarred S for our software engineering class
