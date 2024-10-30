@@ -12,7 +12,7 @@ Hello there! My name is Brandon and I'm an aspiring game developer and programme
 - [Pacman Remake](https://github.com/BCThunder/PacmanRemake.git) A remake of Classic Pacman! In this project, I kept practicing object-oriented game programming and I learned how to make enemy AI.
 
 ### Other Projects
-[DumpsOrFire](https://github.com/BCThunder/DumpsOrFire.git) A music rating website with totally *objective* ratings. Made with my classmates Josh H. and Jarred S for our software engineering class
+[Dumps Or Fire](https://jolman.pythonanywhere.com/) A music rating website with totally *objective* ratings. Made with my classmates Josh H. and Jarred S for our software engineering class. [Github Repository](https://github.com/BCThunder/DumpsOrFire.git)
 
 ### Socials
 [LinkedIn](https://www.linkedin.com/in/brandon-cobb-0012-xyz/)
