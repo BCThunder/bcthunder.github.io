@@ -8,6 +8,7 @@ Hello there! My name is Brandon and I'm an aspiring game developer and programme
 - [A Slice of Lunch](https://github.com/Waffle-Fish/A-Slice-of-Lunch.git) Working title for Cal State Fullerton's Video Game Developers Club! I'm learning sound design for this project.
 - [Witching Hour](https://blueebandana.itch.io/witching-hour) Submission for the Halloween Horror Game Jam in October 2024! I helped program the mechanics in a 5-person team!
 - [Midnight Brew](https://bcthunder.itch.io/midnight-brew) My submission for Pirate Software's Game Jam in July 2024! This was my first game jam and I developed the game solo.
+- [Crossy Road Remake](https://bcthunder.itch.io/crossy-road-remake) A remake of Crossy Road using Unreal and Blender! I wanted to learn how to use blueprints and visual scripting to make this game.
 - [Alien Invasion](https://github.com/BCThunder/Alien-Invasion.git) A remake of Space Invaders! For this project, I focused on learning the Pygame syntax and object-oriented game programming.
 - [Pacman Remake](https://github.com/BCThunder/PacmanRemake.git) A remake of Classic Pacman! In this project, I kept practicing object-oriented game programming and I learned how to make enemy AI.
 
