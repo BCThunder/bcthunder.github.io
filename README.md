@@ -21,7 +21,7 @@ Hello there! I'm Brandon, an aspiring game developer and programmer at Californi
 [Witching Hour](https://blueebandana.itch.io/witching-hour) is a submission for the Halloween Horror Game Jam in October 2024, and we won best art! For this project, I helped develop the customer spawning and ordering system. This was my first experience working with scriptable objects, and I learned how valuable they are for creating different variations of the same mechanics.
 
 ### Midnight Brew
-- [Midnight Brew](https://bcthunder.itch.io/midnight-brew) My submission for Pirate Software's Game Jam in July 2024! This was my first game jam, and I developed the game solo.
+[Midnight Brew](https://bcthunder.itch.io/midnight-brew) My submission for Pirate Software's Game Jam in July 2024! This was my first game jam, and I developed the game solo.
 
 
 
