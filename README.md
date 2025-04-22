@@ -6,10 +6,21 @@ Hello there! I'm Brandon, an aspiring game developer and programmer at Californi
 
 
 ### Game Projects
-- [A Slice of Lunch](https://wafflefish.itch.io/a-slice-of-lunch) Working title for Cal State Fullerton's Video Game Developers Club! This project is special as I’m challenging myself to learn how to create music and cozy sound effects to immerse the player in the game. I love learning new things, especially regarding game development, and learning how to write chords and catchy melodies has been extremely *rewarding* and sometimes frustrating as well. However, like with overcoming a challenging puzzle, I’m always looking to improve my weaknesses and become a better game developer, little by little.
-- [A Totally Normal Bike Ride](https://bcthunder.itch.io/a-totally-normal-bike-ride) A Totally Normal Bike Ride is a Foddian-like rage game where you play as a unicycle-riding bear. I was the team lead and lead game designer for this project, and with a team of 3 others we created this game in 3 days for a local game jam. My main priority for this project was managing the scope to have a complete game and I'm super proud of my team for helping me meet that goal.
-- [Witching Hour](https://blueebandana.itch.io/witching-hour) ![Witching Hour Thumbnail](https://img.itch.zone/aW1nLzE4MjUwMzU4LnBuZw==/315x250%23c/3iUZiO.png)
-  This is a Submission for the Halloween Horror Game Jam in October 2024, and we won best art! For this project, I helped develop the customer spawning and ordering system. This was my first experience working with scriptable objects, and I learned how valuable they are for creating different variations of the same mechanics.
+
+# A Slice of Lunch
+![A Slice of Lunch Thumbnail](/assets/gameplay_image.png)
+[A Slice of Lunch](https://wafflefish.itch.io/a-slice-of-lunch) Working title for Cal State Fullerton's Video Game Developers Club! This project is special as I’m challenging myself to learn how to create music and cozy sound effects to immerse the player in the game. I love learning new things, especially regarding game development, and learning how to write chords and catchy melodies has been extremely *rewarding* and sometimes frustrating as well. However, like with overcoming a challenging puzzle, I’m always looking to improve my weaknesses and become a better game developer, little by little.
+
+# A Totally Normal Bike Ride
+![A Totally Normal Bike Ride Thumbnail](/assets/a_totally_normal_bike_ride)
+[A Totally Normal Bike Ride](https://bcthunder.itch.io/a-totally-normal-bike-ride) A Totally Normal Bike Ride is a Foddian-like rage game where you play as a unicycle-riding bear. I was the team lead and lead game designer for this project, and with a team of 3 others we created this game in 3 days for a local game jam. My main priority for this project was managing the scope to have a complete game and I'm super proud of my team for helping me meet that goal.
+
+# Witching Hour
+![Witching Hour Thumbnail](https://img.itch.zone/aW1nLzE4MjUwMzU4LnBuZw==/315x250%23c/3iUZiO.png)
+[Witching Hour](https://blueebandana.itch.io/witching-hour) 
+This is a Submission for the Halloween Horror Game Jam in October 2024, and we won best art! For this project, I helped develop the customer spawning and ordering system. This was my first experience working with scriptable objects, and I learned how valuable they are for creating different variations of the same mechanics.
+
+# Midnight Brew
 - [Midnight Brew](https://bcthunder.itch.io/midnight-brew) My submission for Pirate Software's Game Jam in July 2024! This was my first game jam, and I developed the game solo.
 
 
