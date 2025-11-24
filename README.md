@@ -11,21 +11,6 @@ Feel free to explore some of the projects I've worked on!
 
 ---
 
-# Experience
-
-### [thebobaface](https://www.thebobaface.com/)
-**Game & Front-End Developer**
-
-I contribute to gameplay programming and front-end development for this startup.
-
-**Key challenges & solutions:**
-- **Working on a rapidly evolving product:** Implemented updates and prototyped new features each sprint while coordinating with designers and artists.
-- **Overhauled game UI and React website:** Updated visual identity and improved interaction flow to match the new brand direction.
-- **Designed an AWS-based save system:** Enabled seamless pick-up-and-play sessions with persistent player progress.
-
-
----
-
 # Game Projects
 
 
@@ -76,6 +61,21 @@ I served as team lead and primary designer for this 3-day game jam.
 - **Maintaining a clear design direction:** Made quick decisions when gameplay clarity or difficulty spiked unexpectedly.
 - **Tuning the physics feel:** Iterated rapidly on acceleration, friction, and level layout to achieve the intended challenge level.
 - **Key lesson learned:** Recognized the importance of delegating tasks to avoid bottlenecks during rapid development.
+
+
+---
+
+# Experience
+
+### [thebobaface](https://www.thebobaface.com/)
+**Game & Front-End Developer**
+
+I contribute to gameplay programming and front-end development for this startup.
+
+**Key challenges & solutions:**
+- **Working on a rapidly evolving product:** Implemented updates and prototyped new features each sprint while coordinating with designers and artists.
+- **Overhauled game UI and React website:** Updated visual identity and improved interaction flow to match the new brand direction.
+- **Designed an AWS-based save system:** Enabled seamless pick-up-and-play sessions with persistent player progress.
 
 
 ---
